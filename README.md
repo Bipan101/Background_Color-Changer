@@ -3,11 +3,13 @@ This is beginner friendly webpage background color changing project uses react +
 
 ## To Run this project , follow these steps:-
 
-### prerequities
+## Prerequisites
+
 1) Nodejs
 2) Tailwind CSS
 
-## Open terminal and type the following to clone
+## Open terminal and type the following to clone:
+
 ### git clone https://github.com/Bipan101/Background_Color-Changer.git
 ### npm -i
 ### npm run dev
